@@ -5,7 +5,7 @@
 */
 
 const settings = {
-  instagramUsername: "YOUR_USERNAME",
+  instagramUsername: "llouievvuitton",
   heroBio:
     "Cars, music, good food, new places, and making the most of life."
 };
