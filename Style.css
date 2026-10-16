@@ -2,13 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&display=swap');
 
 :root {
-  --bg: #101010;
-  --panel: #191919;
+  --bg: #1e2b1f;          /* forest green (main background) */
+  --bg-deep: #141e16;     /* darker green */
+  --brown: #2e2118;       /* dark brown sections */
+  --panel: #3b2b1f;       /* lighter brown cards */
   --text: #f4f1eb;
-  --muted: #a5a29b;
-  --line: #33312d;
-  --accent: #c6a875;
+  --muted: #b8b4a3;
+  --line: #4d4a38;
+  --accent: #d4a86a;      /* warm tan highlight */
 }
+
 
 * {
   box-sizing: border-box;
