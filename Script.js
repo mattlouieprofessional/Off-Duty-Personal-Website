@@ -1,4 +1,3 @@
-
 /*
   OFF/DUTY website settings.
   Edit these values to personalize your website.
@@ -12,8 +11,9 @@ const settings = {
 
 /*
   Add photos to your GitHub repository in a folder named "images".
-  Then add each photo path and caption below.
-  Example: { src: "images/wrx.jpg", caption: "Weekend drives." }
+  Then add one line per photo below (path + caption).
+  Delete the "//" at the start of a line to turn it on, or add your own.
+  Use lowercase filenames with no spaces, e.g. "images/wrx.jpg".
 */
 
 const photos = [
